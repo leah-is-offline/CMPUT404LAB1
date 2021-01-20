@@ -1,2 +1,2 @@
 # Web-Applications-and-Architect
-Repository for CMPUT404
+Repository for CMPUT404.
